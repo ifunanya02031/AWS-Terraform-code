@@ -1,4 +1,4 @@
-# AWS Three-Tier Dynamic Web Application Deployment
+# Dynamic Web Application Deployment on AWS ECS
 
 ## Overview
 
