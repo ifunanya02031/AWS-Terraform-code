@@ -1,1 +1,1 @@
-# Dynamic Web Application Deployment on AWS ECS
+# Host Dynamic Web Application on AWS ECS
